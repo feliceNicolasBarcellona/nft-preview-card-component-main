@@ -28,7 +28,8 @@ body {
 }
 
 main {
-  width: 100%;
+  max-width: 80rem;
+  margin: 0 auto;
   height: 98vh;
   display: flex;
   align-items: center;
